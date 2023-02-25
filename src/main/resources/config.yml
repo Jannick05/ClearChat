@@ -1,0 +1,35 @@
+messages:
+  clear-success:
+    - "&8&m------------------------------------"
+    - "&7"
+    - "&a&lCLEAR CHAT"
+    - "&fClearet af &c%player%"
+    - "&7"
+    - "&8&m------------------------------------"
+  clear-failure:
+    - "&8&m------------------------------------"
+    - "&7"
+    - "&4&lCLEAR FAILURE"
+    - "&fDette har du ikke adgang til!"
+    - "&7"
+    - "&8&m------------------------------------"
+  reload-success:
+    - "&8&m------------------------------------"
+    - "&7"
+    - "&a&lRELOAD SUCCESS"
+    - "&fConfigen reloadede korrekt."
+    - "&7"
+    - "&8&m------------------------------------"
+  reload-failure:
+    - "&8&m------------------------------------"
+    - "&7"
+    - "&4&lRELOAD FAILURE"
+    - "&fDette har du ikke adgang til!"
+    - "&7"
+    - "&8&m------------------------------------"
+
+
+permissions:
+  use: "clearchat.use"
+  reload: "clearchat.reload"
+  admin: "clearchat.admin"

@@ -1,0 +1,10 @@
+name: ClearChat
+version: '${project.version}'
+main: dk.nydt.clearchat.ClearChat
+api-version: 1.8
+authors: [ Nydt ]
+description: Clearchat plugin for clearing the chat
+commands:
+  clearchat:
+    description: clears the chat
+    aliases: [cc]
